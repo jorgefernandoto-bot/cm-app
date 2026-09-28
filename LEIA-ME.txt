@@ -1,0 +1,9 @@
+COMO GERAR O APK (5 minutos, sem programar)
+1. Crie conta gratis em github.com e clique em New repository (ex.: cm-app).
+2. Em "uploading an existing file", arraste TODO o conteudo desta pasta
+   (inclusive a pasta .github). Clique em Commit.
+3. Va na aba Actions. O build "Build APK" roda sozinho (~4 min).
+4. Abra a execucao concluida (verde) e baixe "CM-Assessoria-APK" em Artifacts.
+5. Descompacte o zip, envie o app-debug.apk ao celular e instale
+   (permita "fontes desconhecidas").
+O app abre https://cmassessoriacrm.lovable.app, identico ao site.

@@ -1,0 +1,9 @@
+{
+  "appId": "app.lovable.cmassessoriacrm",
+  "appName": "CM Assessoria",
+  "webDir": "www",
+  "server": {
+    "url": "https://cmassessoriacrm.lovable.app",
+    "cleartext": false
+  }
+}
